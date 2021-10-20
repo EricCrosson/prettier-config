@@ -21,13 +21,14 @@
     "prettier": "prettier --list-different package.json index.json README.md",
     "prettier:fix": "prettier --write package.json index.json README.md",
     "semantic-release": "semantic-release",
-    "test": "jest"
+    "test": "jsonlint index.json"
   },
   "peerDependencies": {
     "prettier": ">= 1"
   },
   "devDependencies": {
     "@semantic-release/git": "^10.0.0",
+    "jsonlint": "^1.6.3",
     "lint-staged": "^11.2.3",
     "semantic-release": "^18.0.0"
   },
