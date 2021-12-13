@@ -29,7 +29,7 @@
   "devDependencies": {
     "@semantic-release/git": "10.0.1",
     "jsonlint": "1.6.3",
-    "lint-staged": "11.2.6",
+    "lint-staged": "12.1.2",
     "semantic-release": "18.0.1"
   },
   "keywords": [
