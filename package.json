@@ -30,7 +30,7 @@
     "@semantic-release/git": "10.0.1",
     "jsonlint": "1.6.3",
     "lint-staged": "12.2.0",
-    "semantic-release": "18.0.1"
+    "semantic-release": "19.0.2"
   },
   "keywords": [
     "prettier",
