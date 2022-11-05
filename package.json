@@ -19,13 +19,12 @@
   "scripts": {
     "format": "prettier --list-different package.json index.json README.md",
     "format:fix": "prettier --write package.json index.json README.md",
-    "test": "jsonlint index.json"
+    "test": "node --test test.js"
   },
   "peerDependencies": {
     "prettier": ">= 1"
   },
   "devDependencies": {
-    "jsonlint": "1.6.3",
     "semantic-release": "19.0.5"
   },
   "keywords": [
