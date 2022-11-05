@@ -1,6 +1,6 @@
 {
   "name": "@ericcrosson/prettier-config",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantic-release-managed",
   "description": "Yet another prettier-config",
   "homepage": "https://github.com/ericcrosson/prettier-config",
   "bugs": {
