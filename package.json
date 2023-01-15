@@ -17,15 +17,10 @@
     "index.json"
   ],
   "scripts": {
-    "format": "prettier --list-different package.json index.json README.md",
-    "format:fix": "prettier --write package.json index.json README.md",
     "test": "node --test test.js"
   },
   "peerDependencies": {
     "prettier": ">= 1"
-  },
-  "devDependencies": {
-    "semantic-release": "19.0.5"
   },
   "keywords": [
     "prettier",
