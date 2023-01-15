@@ -25,7 +25,7 @@
     "prettier": ">= 1"
   },
   "devDependencies": {
-    "semantic-release": "19.0.5"
+    "semantic-release": "20.0.2"
   },
   "keywords": [
     "prettier",
